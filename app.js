@@ -20,7 +20,7 @@ function pesquisar(){
         genero = dado.titulo.toLocaleLowerCase()
 
 
-        if (campoPesquisa == ""||)
+        if (campoPesquisa == "")
         {
             section.innerHTML= "Filme não encontrado"
             return
